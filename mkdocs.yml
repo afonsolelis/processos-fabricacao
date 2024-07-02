@@ -6,4 +6,4 @@ nav:
   - Aula 3: aula3.md
   - Aula 4: aula4.md
 theme:
-  name: readthedocs
+  name: material
